@@ -47,7 +47,7 @@ export default function Details() {
 
   function sendWhatsapp() {
     Linking.openURL(
-      `whatsapp://send?phone=${incident.whatsapp}&text=${message}`
+      `whatsapp://send?phone=${55}${incident.whatsapp}&text=${message}`
     );
   }
 
@@ -69,6 +69,9 @@ export default function Details() {
 
         <IProperty>CASO:</IProperty>
         <IValue>{incident.title}</IValue>
+
+        <IProperty>Descrição:</IProperty>
+        <IValue>{incident.description}</IValue>
 
         <IProperty>VALOR:</IProperty>
         <IValue>
