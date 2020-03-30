@@ -40,6 +40,11 @@ O Be the Hero é uma plataforma dedicada a captação de doações para Ongs. A 
  <img width=650px src=".github\preview-app.jpg" alt="Preview logo"></a>
 </p>
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=350px src=".github\mobile.gif" alt="Mobile logo"></a>
+</p>
+
 ## 🏁 Iniciando <a name = "getting_started"></a>
 
 Instruções de como acessar as rotas e instalação.
